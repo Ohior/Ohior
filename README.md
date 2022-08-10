@@ -53,8 +53,11 @@
 
 ### Connection
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/OhiorOje">
-    <img src="https://github.com/Ohior/Ohior/blob/main/tools/index2.jpg" width="100" height="50"  alt="Twitter"/>
+    <img src="https://github.com/Ohior/Ohior/blob/main/tools/index1.jpg" width="75" height="30"  alt="Twitter"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=https://ohiscode.hashnode.dev">
+    <img src="https://github.com/Ohior/Ohior/blob/main/tools/index.png" width="75" height="30"  alt="Blog"/>
   </a>
 </p>
