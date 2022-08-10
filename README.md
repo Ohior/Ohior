@@ -54,6 +54,6 @@
 ### Connection
 <p align="center">
   <a href="https://twitter.com/OhiorOje">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Eddie Jaoude's Twitter"/>
+    <img src="https://github.com/Ohior/Ohior/blob/main/tools/index.png" alt="Eddie Jaoude's Twitter"/>
   </a>
 </p>
