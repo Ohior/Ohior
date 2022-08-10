@@ -55,9 +55,14 @@
 
 <p align="left">
   <a href="https://twitter.com/OhiorOje">
-    <img src="https://github.com/Ohior/Ohior/blob/main/tools/index1.jpg" width="75" height="30"  alt="Twitter"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Ohior/Ohior/blob/main/tools/twitter.jpg" width="75" height="30"  alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
     <a href=https://ohiscode.hashnode.dev">
-    <img src="https://github.com/Ohior/Ohior/blob/main/tools/index.png" width="75" height="30"  alt="Blog"/>
+    <img src="https://github.com/Ohior/Ohior/blob/main/tools/hashnode.png" width="75" height="30"  alt="Blog"/>
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=https://ohiscode.hashnode.dev">
+    <img src="https://github.com/Ohior/Ohior/blob/main/tools/gmail.png" width="75" height="30"  alt="G-Mail"/>
   </a>
 </p>
