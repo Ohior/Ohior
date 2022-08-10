@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>
-        💪🏿 &nbsp; Strength backend of things: (Console applications 💻, Web applications 🕸, Mobile Applications 📱, Desktop Applications 💻)
+        💪🏿 &nbsp; My strength is on backend of things: (Console applications 💻, Web applications 🕸, Mobile Applications 📱, Desktop Applications 💻)
     </td>
   </tr>
   <tr>
@@ -26,22 +26,23 @@
   </tr>
   <tr>
     <td>
-        🚀 &nbsp; I am self taught developer. With a College Degree in Social Science📜.
+        🚀 &nbsp; I am self taught developer. With a College Degree in Social Science📜.<br/>
+        ⌨ I am currently improving more of my skills on CSharp
     </td>
   </tr>
   <tr>
     <td>
-        🤝🏽 &nbsp; I am looking to Collaborate.... and am currently improving more of my skills on CSharp.
+        🤝🏽 &nbsp; I am looking to Collaborate.... 😁So do not hesitate to ask.
     </td>
   </tr>
   <tr>
     <td>
-        🎭 &nbsp; My hobbies are (Watching movies, Programming, Reading (History), Playing video games(MK,FF,GOW), Listing to music (Country, Reggae)).
+        🎭 &nbsp; My hobbies are (Watching movies, Programming, Reading (History), 🎮Playing video games(MK, FF, GOW), 🎶 Listing to music (Country, Reggae)).
     </td>
   </tr>
   <tr>
     <td>
-        🏀 &nbsp; Skills are Problem solving, Patience, Pondering, Sarcasm, Time management, Focus, Lone Wolf(A wolf is a pack animal, so a lone wolf can work alone as well as with a group).
+        🏀 &nbsp; My skills are Problem solving, I am a Patience guy, 🙄I will not say it is a skill, but I Pondering. 🤡 My Sarcasm gets annoying sometimes. I am very efficient int time ⏳ management, I do not talk much, 🤐 so I guess that improves my Focus, I am a Lone Wolf(A wolf is a pack 🐩 animal, so a lone wolf can work alone as well as with a group).
     </td>
   </tr>
   <tr>
@@ -52,7 +53,6 @@
 </table>
 
 ### Connection
-
 <p align="left">
   <a href="https://twitter.com/OhiorOje">
     <img src="https://github.com/Ohior/Ohior/blob/main/tools/twitter.jpg" width="75" height="30"  alt="Twitter"/>
